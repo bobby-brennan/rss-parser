@@ -2,7 +2,7 @@ import { Options } from 'xml2js';
 import { RequestOptions } from 'https';
 
 declare namespace Parser {
-  type CustomFieldItem<U> = keyof U | { keepArray: boolean }
+  type CustomFieldItem<U> = keyof U | (string | { keepArray: boolean })[]
     
   export interface CustomFields<T, U> {
     readonly feed?: Array<keyof T>;
