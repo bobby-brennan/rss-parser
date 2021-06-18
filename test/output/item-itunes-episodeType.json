@@ -1,0 +1,88 @@
+{
+  "feed": {
+    "items": [
+      {
+        "title": "Trailer",
+        "link": "https://baywatch-berlin.podigee.io/t1-trailer",
+        "pubDate": "Mon, 18 Nov 2019 19:14:32 +0000",
+        "content:encoded": "\n        Baywatch Berlin\nBaywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.\n      ",
+        "content:encodedSnippet": "Baywatch Berlin\nBaywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.",
+        "enclosure": {
+          "url": "https://cdn.podigee.com/media/podcast_16544_baywatch_berlin_episode_1_trailer.mp3?v=1574079359&source=feed",
+          "type": "audio/mpeg",
+          "length": "2338520"
+        },
+        "content": "Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.",
+        "contentSnippet": "Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.",
+        "guid": "cc973b648d6fb41e4e5ef7e4b4ee7604",
+        "isoDate": "2019-11-18T19:14:32.000Z",
+        "itunes": {
+          "author": "Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt",
+          "subtitle": "Baywatch Berlin",
+          "summary": "Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.",
+          "explicit": "no",
+          "duration": "114",
+          "image": "https://images.podigee-cdn.net/0x,sIupQrkLl-L2GPJE7IKzGC90ZhL3wmVuFpBuBNTf2TdQ=/https://cdn.podigee.com/uploads/u10314/6fd157b2-442d-4685-b78b-3bac68f0517f.jpg",
+          "episode": "1",
+          "keywords": "klaas,baywatch,berlin,late night berlin,joko und klaas,duell um die welt",
+          "episodeType": "trailer"
+        }
+      }
+    ],
+    "feedUrl": "https://pubsubhubbub.appspot.com/",
+    "image": {
+      "link": "https://baywatch-berlin.podigee.io/",
+      "url": "https://images.podigee-cdn.net/0x,sKl1jBkJzQhalasSZk-t081rvkZ1jaMq35213ibRTr2U=/https://cdn.podigee.com/uploads/u10314/70a0b394-56a9-47ad-883e-38493268d6bb.jpg",
+      "title": "Baywatch Berlin"
+    },
+    "paginationLinks": {
+      "self": "https://baywatch-berlin.podigee.io/feed/mp3",
+      "first": "https://baywatch-berlin.podigee.io/feed/mp3",
+      "last": "https://baywatch-berlin.podigee.io/feed/mp3?page=1"
+    },
+    "title": "Baywatch Berlin",
+    "description": "Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. \nWie einst in der Weihnachtsgeschichte wird er dabei von seinen Freunden Thomas Schmitt und Jakob Lundt an die Hand genommen und langsam wieder mit den Themen des wahren Lebens in Kontakt gebracht. Tauchen Sie ein und seien Sie die Kugel im Flipperautomaten „Baywatch Berlin“!",
+    "pubDate": "Mon, 18 Nov 2019 19:19:26 +0000",
+    "generator": "Podigee (https://podigee.com)",
+    "link": "https://baywatch-berlin.podigee.io/",
+    "language": "de",
+    "lastBuildDate": "Fri, 18 Jun 2021 09:57:01 +0000",
+    "itunes": {
+      "owner": {
+        "name": "Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt",
+        "email": "alexander.krawczyk@starwatch.de"
+      },
+      "image": "https://images.podigee-cdn.net/0x,sKl1jBkJzQhalasSZk-t081rvkZ1jaMq35213ibRTr2U=/https://cdn.podigee.com/uploads/u10314/70a0b394-56a9-47ad-883e-38493268d6bb.jpg",
+      "categories": [
+        "Comedy",
+        "Society & Culture",
+        "TV & Film"
+      ],
+      "categoriesWithSubs": [
+        {
+          "name": "Comedy",
+          "subs": null
+        },
+        {
+          "name": "Society & Culture",
+          "subs": null
+        },
+        {
+          "name": "TV & Film",
+          "subs": null
+        }
+      ],
+      "keywords": [
+        "klaas",
+        "late night berlin",
+        "klaas heufer umlauf",
+        "baywatch berlin",
+        "baywatch"
+      ],
+      "author": "Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt",
+      "subtitle": "",
+      "summary": "Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. \nWie einst in der Weihnachtsgeschichte wird er dabei von seinen Freunden Thomas Schmitt und Jakob Lundt an die Hand genommen und langsam wieder mit den Themen des wahren Lebens in Kontakt gebracht. Tauchen Sie ein und seien Sie die Kugel im Flipperautomaten „Baywatch Berlin“!",
+      "explicit": "no"
+    }
+  }
+}

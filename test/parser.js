@@ -253,6 +253,10 @@ describe('Parser', function() {
     });
   });
 
+  it('should parse episodeType', function(done) {
+    testParseForFile('item-itunes-episodeType', 'rss', done);
+  });
+
   it('should parse itunes categories', function(done) {
     testParseForFile('itunes-category', 'rss', done);
   });

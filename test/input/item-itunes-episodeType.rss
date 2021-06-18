@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://baywatch-berlin.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://baywatch-berlin.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://baywatch-berlin.podigee.io/feed/mp3?page=1" rel="last"/>
+    <title>Baywatch Berlin</title>
+    <language>de</language>
+    <pubDate>Mon, 18 Nov 2019 19:19:26 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Jun 2021 09:57:01 +0000</lastBuildDate>
+    <description>Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. 
+Wie einst in der Weihnachtsgeschichte wird er dabei von seinen Freunden Thomas Schmitt und Jakob Lundt an die Hand genommen und langsam wieder mit den Themen des wahren Lebens in Kontakt gebracht. Tauchen Sie ein und seien Sie die Kugel im Flipperautomaten „Baywatch Berlin“!</description>
+    <link>https://baywatch-berlin.podigee.io/</link>
+    <generator>Podigee (https://podigee.com)</generator>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sKl1jBkJzQhalasSZk-t081rvkZ1jaMq35213ibRTr2U=/https://cdn.podigee.com/uploads/u10314/70a0b394-56a9-47ad-883e-38493268d6bb.jpg</url>
+      <title>Baywatch Berlin</title>
+      <link>https://baywatch-berlin.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sKl1jBkJzQhalasSZk-t081rvkZ1jaMq35213ibRTr2U=/https://cdn.podigee.com/uploads/u10314/70a0b394-56a9-47ad-883e-38493268d6bb.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>klaas,late night berlin,klaas heufer umlauf,baywatch berlin,baywatch</itunes:keywords>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="TV &amp; Film"/>
+    <itunes:summary>Das Beautiful Mind Klaas Heufer-Umlauf probiert in diesem Podcast nach über 10 Jahren weltfremden Jet Set Spaß Kontakt zur echten Welt aufzunehmen. 
+Wie einst in der Weihnachtsgeschichte wird er dabei von seinen Freunden Thomas Schmitt und Jakob Lundt an die Hand genommen und langsam wieder mit den Themen des wahren Lebens in Kontakt gebracht. Tauchen Sie ein und seien Sie die Kugel im Flipperautomaten „Baywatch Berlin“!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt</itunes:name>
+      <itunes:email>alexander.krawczyk@starwatch.de</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Trailer</title>
+      <itunes:title>Trailer</itunes:title>
+      <description>Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.</description>
+      <pubDate>Mon, 18 Nov 2019 19:14:32 +0000</pubDate>
+      <link>https://baywatch-berlin.podigee.io/t1-trailer</link>
+      <guid isPermaLink="false">cc973b648d6fb41e4e5ef7e4b4ee7604</guid>
+      <content:encoded>
+        <![CDATA[Baywatch Berlin
+Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.]]>
+      </content:encoded>
+      <itunes:image href="https://images.podigee-cdn.net/0x,sIupQrkLl-L2GPJE7IKzGC90ZhL3wmVuFpBuBNTf2TdQ=/https://cdn.podigee.com/uploads/u10314/6fd157b2-442d-4685-b78b-3bac68f0517f.jpg"/>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:subtitle>Baywatch Berlin</itunes:subtitle>
+      <itunes:summary>Baywatch Berlin startet am 22. November. Mit Klaas Heufer-Umlauf und den anderen.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>klaas,baywatch,berlin,late night berlin,joko und klaas,duell um die welt</itunes:keywords>
+      <itunes:author>Klaas Heufer-Umlauf, Thomas Schmitt und Jakob Lundt</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_16544_baywatch_berlin_episode_1_trailer.mp3?v=1574079359&amp;source=feed" type="audio/mpeg" length="2338520"/>
+      <itunes:duration>114</itunes:duration>
+    </item>
+  </channel>
+</rss>
